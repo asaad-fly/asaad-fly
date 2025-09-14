@@ -82,7 +82,7 @@ me.say_hi()
 
 </div>
 
-## 🎯 Featured Projects
+<!-- ## 🎯 Featured Projects
 
 <div align="center">
 
@@ -91,7 +91,7 @@ me.say_hi()
 [![Zen Shell](https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark)](https://github.com/GhostFreakOS/Zenshell)
 [![School Project](https://github-readme-stats.vercel.app/api/pin/?username=asaad-fly&repo=Anas-bn-malek-School&theme=dark)](https://github.com/asaad-fly/Anas-bn-malek-School)
 
-[🔍 Explore More Projects](https://github.com/asaad-fly?tab=repositories)
+[🔍 Explore More Projects](https://github.com/asaad-fly?tab=repositories) -->
 
 </div>
 
